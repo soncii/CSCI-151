@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650026851 source:c:\users\admin\desktop\Новая папка\oe3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

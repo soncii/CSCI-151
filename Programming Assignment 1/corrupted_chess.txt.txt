@@ -1,0 +1,24 @@
+2000 player60
+player11 800
+700 player8
+player9 2000
+player44 350
+player50 220
+800 player2
+2500 player10
+
+
+if (asc>47 && asc <58)
+            {
+                num[j]=word[i];
+                j++;
+                int asctemp = word[i+1];
+                if ( asctemp<48 ||  asctemp>57)
+                {
+                    i++;
+                    j=0;
+
+                    days[cnt] = atoi(word);
+                    cnt++;
+                }
+            }

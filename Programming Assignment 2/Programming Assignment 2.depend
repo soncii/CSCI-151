@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649678488 source:c:\users\admin\desktop\Новая папка\programming assignment 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
